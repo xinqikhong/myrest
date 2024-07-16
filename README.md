@@ -24,3 +24,9 @@ This project serves as a mobile application displays information for 25 restaura
  
 ## APK Download
 - [MyRest.apk](https://drive.google.com/file/d/12DQk0MjlQdrJcGRStUBG9ocyS0QPQz3c/view?usp=sharing)
+
+## Result/Output
+![Screenshot_20240717_050344](https://github.com/user-attachments/assets/d1959f48-af9d-4cd7-bdcc-1c1f3e78f0c6)
+![Screenshot_20240717_050412](https://github.com/user-attachments/assets/de6f035c-0a30-4c2f-9fd3-ce5d2a70ccd5)
+![Screenshot_20240717_050404](https://github.com/user-attachments/assets/92672867-ff0f-416d-abc0-06e29dc323e6)
+![Screenshot_20240717_050353](https://github.com/user-attachments/assets/eb6c12fc-5826-415c-88b1-6a16bea9e87f)
