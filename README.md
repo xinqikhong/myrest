@@ -1,16 +1,26 @@
-# myrest
+# MyRest - Restaurant List App
+This project serves as a mobile application displays information for 25 restaurants, including one picture for each.
 
-A new Flutter project.
+## Requirements For This Assignment
 
-## Getting Started
+- Enter details for 25 restaurants, each with at least 1 picture.
 
-This project is a starting point for a Flutter application.
+## Steps to Complete the Assignment
 
-A few resources to get you started if this is your first Flutter project:
+1. **Insert Data into MySQL Database**
+   - Write PHP program to import data from an Excel file (.xlsx) into a MySQL database managed by phpMyAdmin.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Develop Frontend Mobile App**
+   - Utilize Flutter to create a mobile app that presents the restaurant details and images.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Retrieve Data for the Flutter App**
+   - Implement PHP scripts to retrieve restaurant data from the MySQL database and return it to the Flutter app.
+
+## Technologies Used
+
+- Flutter (Dart) for front-end development
+- PHP for backend services
+- MySQL for database management
+ 
+## APK Download
+- [MyRest.apk](https://drive.google.com/file/d/12DQk0MjlQdrJcGRStUBG9ocyS0QPQz3c/view?usp=sharing)
